@@ -1,3 +1,4 @@
+package ArrayBaby;
 
 //find sum of all array elements
 //O(n): bcz we visited each elements once for sum.
