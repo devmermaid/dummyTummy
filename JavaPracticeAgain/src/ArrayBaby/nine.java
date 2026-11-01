@@ -4,6 +4,7 @@ public class nine
 {
     static void main() {
         int[] arr={12,13,14,15};
+        //first way
         int i;
         for(i=0;i<arr.length-1;i++)
         {
@@ -20,6 +21,8 @@ public class nine
         {
             System.out.println("Not sorted");
         }
+
+        //second way
         boolean sorted=true;
         for(int j=0;j<arr.length-1;j++)
         {
