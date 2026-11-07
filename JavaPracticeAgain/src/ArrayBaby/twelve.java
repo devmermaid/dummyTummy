@@ -1,5 +1,5 @@
 package ArrayBaby;
-
+//find duplicates
 public class twelve
 {
     static void main() {
